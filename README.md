@@ -6,6 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Da&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Da&show_icons=true&theme=radical)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
