@@ -11,7 +11,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png
+
 ---
 
 <div>
