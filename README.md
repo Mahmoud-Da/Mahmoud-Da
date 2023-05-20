@@ -8,6 +8,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Da&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
