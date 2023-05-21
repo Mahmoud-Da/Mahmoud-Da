@@ -1,4 +1,4 @@
-### :fire: My Stats :
+### :fire: My Status :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahmoud-Da&theme=highcontrast&fire=DD2727)](https://git.io/streak-stats)
 
