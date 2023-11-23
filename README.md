@@ -2,13 +2,11 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahmoud-Da&theme=highcontrast&fire=DD2727)](https://git.io/streak-stats)
 
-
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Da&show_icons=true&theme=radical) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Da&langs_count=10&layout=compact&theme=vision-friendly-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+[![My Languages](https://github-readme-stats.vercel.app/api/pin/?username=Mahmoud-Da&repo=your-repo&hide_progress=true)](https://github.com/Mahmoud-Da/Mahmoud-Da)
 
 ---
 
