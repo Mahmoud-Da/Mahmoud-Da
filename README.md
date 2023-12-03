@@ -13,7 +13,7 @@
 ---
 
 <div>
-  <img src="https://www.pngwing.com/en/free-png-nwvsu" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://www.pngwing.com/en/free-png-nwvsu" title="C++" **alt="C++" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" title="Ruby" **alt="Ruby" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Jquery-icon.svg" title="Jquery" **alt="Jquery" width="40" height="40"/>
