@@ -1,6 +1,3 @@
-### :fire: My Status :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahmoud-Da&theme=highcontrast&fire=DD2727)](https://git.io/streak-stats)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Da&show_icons=true&theme=radical) -->
 
