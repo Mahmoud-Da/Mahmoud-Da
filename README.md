@@ -34,4 +34,8 @@
 </div>
 
 Visitors:
-https://count.getloli.com/get/@Mahmoud-Da.github.readme
+counting of visitors to this page in this section started from April 1, 2025
+
+<br><br>
+
+![](https://count.getloli.com/get/@Mahmoud-Da.github.readme)
