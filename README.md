@@ -3,7 +3,9 @@
 
 <!-- https://readme-typing-svg.herokuapp.com/demo/  -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1500&size=30&pause=1000&color=3AFF75&width=435&lines=Greetings!!!;I'm+Mahmoud;a+Developer)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1500&size=30&pause=1000&color=3AFF75&width=435&lines=Greetings!!!;I'm+Mahmoud;a+Developer" alt="Goodbye Typing SVG" />
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Da&langs_count=100000000000000000000&layout=compact&theme=vision-friendly-dark&include_all_commits=true&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
