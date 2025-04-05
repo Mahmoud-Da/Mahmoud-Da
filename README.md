@@ -7,9 +7,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Da&langs_count=100000000000000000000&layout=compact&theme=vision-friendly-dark&include_all_commits=true&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
-### :hammer_and_wrench: Tech Stack :
+
+### Tech Stack :
 
 ---
 
@@ -39,6 +39,7 @@
 
 
 ### Profile Views
+---
 counting of visitors to this page in this section started from April 1, 2025
 
 ![](https://count.getloli.com/get/@Mahmoud-Da.github.readme)
