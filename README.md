@@ -34,7 +34,7 @@
 </div>
 
 
-### : Profile Views
+### Profile Views
 counting of visitors to this page in this section started from April 1, 2025
 
 ![](https://count.getloli.com/get/@Mahmoud-Da.github.readme)
