@@ -33,9 +33,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
 </div>
 
-Visitors:
-counting of visitors to this page in this section started from April 1, 2025
 
-<br><br>
+### : Profile Views
+counting of visitors to this page in this section started from April 1, 2025
 
 ![](https://count.getloli.com/get/@Mahmoud-Da.github.readme)
