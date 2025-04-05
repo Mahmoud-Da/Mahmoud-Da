@@ -1,5 +1,6 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Da&show_icons=true&theme=radical) -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mahmoud-Da&theme=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Da&langs_count=100000000000000000000&layout=compact&theme=vision-friendly-dark&include_all_commits=true&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
