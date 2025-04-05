@@ -38,3 +38,8 @@
 counting of visitors to this page in this section started from April 1, 2025
 
 ![](https://count.getloli.com/get/@Mahmoud-Da.github.readme)
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1500&size=30&pause=1000&color=3AFF75&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+👋;See+you+soon!+😊" alt="Goodbye Typing SVG" />
+</p>
