@@ -3,7 +3,7 @@
 
 <!-- https://readme-typing-svg.herokuapp.com/demo/  -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DF73F&width=435&lines=Greetings!!!;I'm+Mahmoud;a+Full-Stack+Engineer+with+expertise+in++Machine+Learning+and++Deep+Learning;Passionate+about+building+scalable+and+efficient+systems;I+specialize+in+both+backend+and+frontend+development;and+I'm+always+exploring+new+ways+to+integrate+cutting-edge+AI+technologies+into+my+projects.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DF73F&width=435&lines=Greetings!!!;I'm+Mahmoud;FullStack+Engineer+with+expertise+in+;+Machine++learning+%26+Deep+learning;Passionate+about+building+scalable;and+efficient+systems;specialize+in+both+backend+and;+frontend+development%2C;and+I'm+always+;exploring++new+ways+to+integrate;cutting-edge+AI+technologies+;into+my+projects.)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Da&langs_count=100000000000000000000&layout=compact&theme=vision-friendly-dark&include_all_commits=true&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
