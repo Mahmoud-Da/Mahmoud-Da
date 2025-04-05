@@ -12,6 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Da&langs_count=100000000000000000000&layout=compact&theme=vision-friendly-dark&include_all_commits=true&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
+
 ### Tech Stack :
 
 ---
@@ -40,6 +41,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
 </div>
 
+<br>
 
 ### Profile Views
 ---
@@ -47,6 +49,7 @@ counting of visitors to this page in this section started from April 1, 2025
 
 ![](https://count.getloli.com/get/@Mahmoud-Da.github.readme)
 
+<br>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1500&size=30&pause=1000&color=3AFF75&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+👋;See+you+soon!+😊" alt="Goodbye Typing SVG" />
