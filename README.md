@@ -15,9 +15,7 @@ I specialize in both backend and frontend development, and I'm always exploring 
 
 <br>
 
-## Tech Stack :
-
----
+## Tech Stack:
 
 ### Programming Language:
 <div>
@@ -28,7 +26,7 @@ I specialize in both backend and frontend development, and I'm always exploring 
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 </div>
 
-#### Frontend Technologies:
+### Frontend Technologies:
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -37,13 +35,13 @@ I specialize in both backend and frontend development, and I'm always exploring 
  <img src="https://masteringjs.io/assets/images/vue/vue.png" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
 </div>
 
-#### Backend Technologies:
+### Backend Technologies:
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 
-#### Databases:
+### Databases:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -54,7 +52,7 @@ I specialize in both backend and frontend development, and I'm always exploring 
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 
-#### DevOps & Tools:
+### DevOps & Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
@@ -65,8 +63,8 @@ I specialize in both backend and frontend development, and I'm always exploring 
 
 <br>
 
-### Profile Views
----
+## Profile Views:
+
 counting of visitors to this page in this section started from April 1, 2025
 
 ![](https://count.getloli.com/get/@Mahmoud-Da.github.readme)
