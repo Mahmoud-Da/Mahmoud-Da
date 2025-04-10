@@ -21,12 +21,14 @@ I specialize in both backend and frontend development, and I'm always exploring 
 [![My Skills](https://skillicons.dev/icons?i=py,ruby,java,js,ts,php)](https://skillicons.dev)
 
 ### Machine Learning & Deep Learning Technologies:
+[![My Skills](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
 </div>
 
 
 ### Frontend Technologies:
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,jquery,react,vue)](https://skillicons.dev)
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -36,6 +38,7 @@ I specialize in both backend and frontend development, and I'm always exploring 
 </div>
 
 ### Backend Technologies:
+[![My Skills](https://skillicons.dev/icons?i=nextjs,rails,nodejs)](https://skillicons.dev)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
@@ -43,12 +46,14 @@ I specialize in both backend and frontend development, and I'm always exploring 
 </div>
 
 ### Databases:
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres,prisma)](https://skillicons.dev)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
 ### Cloud:
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,heroku)](https://skillicons.dev)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
@@ -57,6 +62,7 @@ I specialize in both backend and frontend development, and I'm always exploring 
 </div>
 
 ### DevOps & Tools:
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker)](https://skillicons.dev)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
