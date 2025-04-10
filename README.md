@@ -18,14 +18,7 @@ I specialize in both backend and frontend development, and I'm always exploring 
 ## Tech Stack:
 
 ### Programming Language:
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" **alt="Python" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" title="Ruby" **alt="Ruby" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-</div>
+[![My Skills](https://skillicons.dev/icons?i=py,ruby,java,js,ts,php)](https://skillicons.dev)
 
 ### Machine Learning & Deep Learning Technologies:
 <div>
