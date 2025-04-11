@@ -18,7 +18,7 @@ I specialize in both backend and frontend development, and I'm always exploring 
 ## Tech Stack:
 
 ### Programming Language:
-[![My Skills](https://skillicons.dev/icons?i=py,ruby,java,js,ts,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,ruby,java,js,ts,php,cpp,cs)](https://skillicons.dev)
 
 ### Machine Learning & Deep Learning Technologies:
 [![My Skills](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
@@ -29,7 +29,7 @@ I specialize in both backend and frontend development, and I'm always exploring 
 
 
 ### Backend Technologies:
-[![My Skills](https://skillicons.dev/icons?i=nextjs,rails,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,rails,nodejs,flask)](https://skillicons.dev)
 
 
 ### Databases:
@@ -41,9 +41,11 @@ I specialize in both backend and frontend development, and I'm always exploring 
 
 
 ### DevOps & Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,regex,sentry,vite,anaconda,babel,bash,bun,npm,pnpm,yarn,postman)](https://skillicons.dev)
 
 
+### OS:
+[![My Skills](https://skillicons.dev/icons?i=linux,kali)](https://skillicons.dev)
 <br>
 
 ## Profile Views:
