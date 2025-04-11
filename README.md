@@ -48,10 +48,9 @@ I specialize in both backend and frontend development, and I'm always exploring 
 [![My Skills](https://skillicons.dev/icons?i=apple,windows,linux,ubuntu,kali)](https://skillicons.dev)
 <br>
 
-## Profile Views:
+## Profile Logins Count:
 
-counting of visitors to this page in this section started from April 1, 2025
-
+from April 1, 2025
 ![](https://count.getloli.com/get/@Mahmoud-Da.github.readme)
 
 <br>
