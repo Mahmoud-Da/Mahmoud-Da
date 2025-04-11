@@ -45,7 +45,7 @@ I specialize in both backend and frontend development, and I'm always exploring 
 
 
 ### OS:
-[![My Skills](https://skillicons.dev/icons?i=linux,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,windows,linux,ubuntu,kali)](https://skillicons.dev)
 <br>
 
 ## Profile Views:
