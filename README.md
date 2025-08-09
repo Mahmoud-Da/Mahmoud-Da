@@ -29,7 +29,7 @@ I specialize in both backend and frontend development, and I'm always exploring 
 
 
 ### Backend Technologies:
-[![My Skills](https://skillicons.dev/icons?i=nextjs,rails,nodejs,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,rails,nodejs,flask,fastapi)](https://skillicons.dev)
 
 
 ### Databases:
