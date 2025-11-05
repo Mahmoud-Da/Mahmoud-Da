@@ -1,7 +1,3 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Mahmoud-Da" />
-</div>
-
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Da&show_icons=true&theme=radical)
 
 <!-- https://readme-typing-svg.herokuapp.com/demo/  -->
